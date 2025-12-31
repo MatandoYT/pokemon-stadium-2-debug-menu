@@ -53,8 +53,8 @@ patches: usa.z64 jap.z64
 	xdelta3 -f -s np3j0.z64 jap.z64 np3j0.vcdiff
 
 bass:
-	$(MAKE) -C external/bass
-	mv external/bass/bass .
+	$(MAKE) -C external/bass-14/bass
+	mv external/bass-14/bass/bass .
 
 romjudge:
 	$(MAKE) -C external/romjudge

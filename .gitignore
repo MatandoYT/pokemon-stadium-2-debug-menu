@@ -1,5 +1,7 @@
 *.swp
 *.z64
 *.o
+*.bin
 bass
 romjudge
+external/bass-14
