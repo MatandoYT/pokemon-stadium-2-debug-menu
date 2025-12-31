@@ -1,0 +1,6 @@
+[submodule "external/romjudge"]
+	path = external/romjudge
+	url = https://github.com/jkbenaim/romjudge
+[submodule "external/bass"]
+	path = external/bass
+	url = https://github.com/ARM9/bass.git
